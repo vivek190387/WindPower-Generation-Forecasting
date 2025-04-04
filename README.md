@@ -1,1 +1,1 @@
-# WindPower-Generation-Forecasting
+# Wind Power-Generation-Forecasting
